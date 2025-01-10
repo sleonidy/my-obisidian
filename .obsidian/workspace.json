@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "23764ea86f3dec2b",
+        "id": "339c602b0622adfa",
         "type": "tabs",
         "children": [
           {
-            "id": "29023f88498bebcc",
+            "id": "cd5f1b5e1c28415d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Заграница/Вал-торенс.md",
+                "file": "Templates/Темплейт.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Вал-торенс"
+              "title": "Темплейт"
             }
           }
         ]
@@ -173,12 +173,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "29023f88498bebcc",
+  "active": "cd5f1b5e1c28415d",
   "lastOpenFiles": [
-    "Заграница/Темплейт.md",
-    "Заграница/Вал-торенс.md",
     "Yaron.md",
+    "Templates/Темплейт.md",
+    "Untitled 1.canvas",
+    "Templates",
     "Untitled.canvas",
+    "Заграница/Вал-торенс.md",
     "Github token.md",
     "2025-01-10.md",
     "Заграница",
